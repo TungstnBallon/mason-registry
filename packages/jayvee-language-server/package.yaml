@@ -14,7 +14,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:github/jvalue/jayvee@v0.5.0-alpha
+  id: pkg:github/jvalue/jayvee@v0.6.4-alpha
   asset:
     file: jayvee.vsix
 
